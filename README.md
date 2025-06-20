@@ -1,5 +1,5 @@
 🎮 Etique - Game Copier
-Etique Game Copier is a stylish, intuitive front-end interface for copying and submitting game files securely. Built with HTML, CSS, and JavaScript, it provides a sleek experience backed by PowerShell-based automation (external), intended for controlled environments or file testing.
+# Etique Game Copier is a stylish, intuitive front-end interface for copying and submitting game files securely. Built with HTML, CSS, and JavaScript, it provides a sleek experience backed by PowerShell-based automation (external), intended for controlled environments or file testing.
 
 🚀 Features
 🔗 Simple Interface – Just paste your game file path or contents and press Start Copying!
